@@ -100,9 +100,9 @@
 
 ## 📈 Contribution Activity
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratik9216&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
+</p> -->
 
 ---
 
